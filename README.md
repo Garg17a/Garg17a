@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Garg</h1>
 <h3 align="center">Seeking an entry-level position in the field of software development. I have a keen interest in Data Structures and Algorithms. Highly skilled in working with C, C++, Python, MySQL, DSA, and Data Analysis. Strong professional with a Bachelor of Engineering focused on Computer Science. Geeksforgeeks University ‘Rank ~22’ solve 500+ Problems.</h3>
-<img align="right" alt="programming"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="programming"width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garg17a&label=Profile%20views&color=0e75b6&style=flat" alt="garg17a" /> </p>
 
