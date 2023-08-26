@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Himanshu Garg</h1>
-<h3 align="center">Seeking an entry-level position in the field of software development. I have a keen interest in Data Structures and Algorithms. Highly skilled in working with C, C++, Python, MySQL, DSA, and Data Analysis. Strong professional with a Bachelor of Engineering focused on Computer Science. Geeksforgeeks University ‘Rank ~22’ solve 500+ Problems.</h3>
+<h1 align="center">Hi 👋, I'm Himanshu Garg. I Completed my graduation Bachelor of Engineering in Computer Science from Chandigarh University</h1>
+<h3 align="center">Seeking an entry-level position in the field of software development. I have a keen interest in Data Structures and Algorithms. Highly skilled in working with C, C++, Python, Java, MySQL, Data Structure and Algorithms, OOPS, HTML, CSS, Javascript, Reactjs, Django, DBMS, SQL, and Operating System. Strong professional with a Bachelor of Engineering focused on Computer Science. Geeksforgeeks University ‘Rank ~22’ solve 500+ Problems.</h3>
 <img align="right" alt="programming"width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garg17a&label=Profile%20views&color=0e75b6&style=flat" alt="garg17a" /> </p>
 
-- Software Development Intern||High Radius **• Build an AI-Enabled FinTech B2B Invoice Management Application**
+- Software Development Intern || High Radius **• Build an AI-Enabled FinTech B2B Invoice Management Application**
 
-- 🌱 SKILLS: **C || C++ || Python || Java || Data Structure and Algorithms (DSA) || Object Oriented Programming (OOPS) || STLC**
+- 🌱 SKILLS: C++ || Python || Java || Data Structure and Algorithms(DSA) || OOPS || HTML || CSS || Javascript || Reactjs || Django || DBMS || MySQL ||SQL || Operating System.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Garg17a?tab=repositories](https://github.com/Garg17a?tab=repositories)
 
-- 💬About Me **A meticulous and goal-oriented individual possessing excellent communication and leadership skills, seeking an entry-level position in the field of software development. Innovative and having problemsolving skills willing to contribute ideas while developing advanced projects with quality and gaining new experiences. I love physics and mathematics and coding with interests including Machine Learning, Data Science, and aviation.**
+- 💬About Me **A meticulous and goal-oriented individual possessing excellent communication and leadership skills, seeking an entry-level position in the field of software development. Innovative and having problem-solving skills willing to contribute ideas while developing advanced projects with quality and gaining new experiences. I love physics mathematics and coding with interests including Machine Learning, Data Science, and aviation.**
 
 - 📫 How to reach me **garg80601@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bUxxUbT0-Ch3aqlVNJ6cnuNPUiyzNJq_/view](https://drive.google.com/file/d/1bUxxUbT0-Ch3aqlVNJ6cnuNPUiyzNJq_/view)
 
-- ⚡ Education **• Bachelors in Computer Science Engineering | Chandigarh University, Gharuan | 2019 - 2023 | 7.43/10 • Intermediate (CBSE) | Spring Dales Public School, Jagadhri | 2018 - 2019 | 70.6% • Matriculation (CBSE) | Spring Dales Public School, Jagadhri | 2016 - 2017 | 76%**
+- ⚡ Education **• Bachelors in Computer Science Engineering | Chandigarh University, Gharuan | 2019 - 2023 | 74.3% • Intermediate (CBSE) | Spring Dales Public School, Jagadhri | 2018 - 2019 | 70.6% • Matriculation (CBSE) | Spring Dales Public School, Jagadhri | 2016 - 2017 | 76%**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
