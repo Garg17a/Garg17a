@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Garg. I Completed my graduation Bachelor of Engineering in Computer Science from Chandigarh University</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Garg. I completed my Bachelor of Engineering in Computer Science from Chandigarh University.</h1>
 <h3 align="center">Seeking an entry-level position in the field of software development. I have a keen interest in Data Structures and Algorithms. Highly skilled in working with C, C++, Python, Java, MySQL, Data Structure and Algorithms, OOPS, HTML, CSS, Javascript, Reactjs, Django, DBMS, SQL, and Operating System. Strong professional with a Bachelor of Engineering focused on Computer Science. Geeksforgeeks University ‘Rank ~22’ solve 500+ Problems.</h3>
 <img align="right"
   alt="programming"width="350"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
